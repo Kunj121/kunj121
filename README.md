@@ -22,7 +22,7 @@ Implementing an MLP model to predict signals (buy/hold/sell)
 
 🔢 C++ Options Pricing Engine
 
-Creating a options calculator for European, American, and Barriar Options
+Creating a options calculator for European Options
 
 Utilizing Numerical Methods to price options
 
