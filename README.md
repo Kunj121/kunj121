@@ -14,7 +14,7 @@ Developing a real-time trading strategy relative volume utilizing Alpaca
 
 Testing and optimizing execution logic for PnL
 
-🤖 Crypto On-Chain/Techinical MLP (In Progress)
+🤖 Crypto On-Chain/Techinical MLP (**In Progress**)
 
 Pulling On-Chain/historical data for PoS crypto currencies from Dune and Coin API
 
