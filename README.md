@@ -6,9 +6,18 @@ Hello! I'm Kunj, a Master's student in Financial Mathematics at the University o
 
 🚀 Projects I'm Working On
 
+⚡️ Energy Analysis (**In Progress**)
+
+Taking this quarter to learn about the Energy markets and the ins and outs of the Smart Grid
+
+Will be committing different analysis's throught these next months
+
+Stay tuned...more repos to come!
+
+
 Here are some of the exciting projects currently in development:
 
-📈 Relative Volume Momentum Quantitative Trading Strategy (**In Progress**)
+📈 Relative Volume Momentum Quantitative Trading Strategy)
 
 Developing a real-time trading strategy relative volume utilizing Alpaca
 
