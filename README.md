@@ -29,9 +29,9 @@ Pulling On-Chain/historical data for PoS crypto currencies from Dune and Coin AP
 
 Implementing an MLP model to predict signals (buy/hold/sell)
 
-🔢 C++ Options Pricing Engine
+🔢 C++ Options Pricing Engine (Optimized)
 
-Creating a options calculator for European Options
+Creating a options calculator for American Options
 
 Utilizing Numerical Methods to price options
 
