@@ -2,7 +2,7 @@
 
 🧑‍🎓 About Me
 
-Hello! I'm Kunj, currently pursuing Master's student in Financial Mathematics at the University of Chicago. My passion lies in the intersection of quantitative finance, data analytics, and algorithmic trading. With a background in finance, mathematics, and programming, I'm constantly exploring new ways to extract insights from financial markets and build systematic trading strategies. The project below are a few assignments and work I have done throughout the past year! 
+Hello! I'm Kunj, currently pursuing my Master's in Financial Mathematics at the University of Chicago. My passion lies in the intersection of quantitative finance, data analytics, and algorithmic trading. With a background in finance, mathematics, and programming, I'm constantly exploring new ways to extract insights from financial markets and build systematic trading strategies. The project below are a few assignments and work I have done throughout the past year! 
 
 
 ⚡️ Energy Analysis (**In Progress**)
