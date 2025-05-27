@@ -9,9 +9,11 @@ Hey! My name is Kunj and I'm currently pursuing my Master's in Financial Mathema
 
 Taking this quarter to learn about the Energy markets and the ins and outs of the Smart Grid
 
-Will be committing different analysis's throught these next months
+Utilized Least Squares Monte Carlo methods to calculate NPV of a BTC Mining Facility
 
-Stay tuned...more repos to come!
+Analyzed RT and DA market data in MISO
+
+Forecased DA prices using GARCH(1,1) added shock components, and forecasted BTC using GBM
 
 
 Here are some of the exciting projects currently in development:
