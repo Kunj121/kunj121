@@ -18,7 +18,8 @@ With a background in finance, mathematics, and programming, I'm constantly explo
 
 ---
 
-## 🚀  Projects in Development
+## 📊 Completed Research Projects
+
 
 ### 🤖 Crypto On-Chain/Technical MLP
 - Pulling on-chain and historical data for PoS cryptocurrencies from **Dune Analytics** and **Coin API**
@@ -29,9 +30,6 @@ With a background in finance, mathematics, and programming, I'm constantly explo
 - Utilizing advanced numerical methods for accurate pricing
 - Focus on computational efficiency and speed
 
----
-
-## 📊 Completed Research Projects
 
 ### ⏱️ Nanosecond-Level BTC/USD Market Analysis
 - Analyzed nanosecond-level market data for BTC/USD over a one-day period
